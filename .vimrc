@@ -6,3 +6,4 @@ set nolist
 set ffs=unix
 filetype plugin on
 set paste
+set incsearch
