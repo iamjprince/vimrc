@@ -6,6 +6,8 @@ Mainly set for vi compatibility.
 
 The initial upload in 2014 was:
 ```bash
+set cp
+set compatible
 set nohlsearch
 set noai
 set nolist
