@@ -1,3 +1,4 @@
+"  Used on Ubuntu 20.04.1
 "  Settings, mainly for old-style vi compatibility
 "  cp and compatible change colors and print strange characters.
 "" set cp
