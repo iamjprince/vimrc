@@ -14,4 +14,5 @@ set ffs=unix
 set paste
 set incsearch
 set showmode
+colorscheme delek
 syntax on
